@@ -5,6 +5,8 @@ Dans l'informatique, j'aime les algorithmes, la gestion de données et la sensat
 Durant mon temps libre, je fais du Crossfit et je joue au jeux vidéo. J'écoute aussi beaucoup de Hip Hop.
 Vous pouvez me retrouver sur Github, Strava, et Linkedin, ou me joindre par email.
 
+<a href="https://app.daily.dev/Alexinsecte"><img src="https://api.daily.dev/devcards/83f3997a700846f5ae6d26520394dde1.png?r=o0w" width="400" alt="Alexandre Beauquel's Dev Card"/></a>
+
 ## &#x1f4c8; GitHub Stats
 <br>
 
